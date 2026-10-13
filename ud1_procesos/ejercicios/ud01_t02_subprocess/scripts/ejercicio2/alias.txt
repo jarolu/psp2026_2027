@@ -1,0 +1,2 @@
+verip=ipconfig
+toctoc=ping
